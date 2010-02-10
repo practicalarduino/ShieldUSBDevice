@@ -1,7 +1,8 @@
-Practical Arduino 433MHz Receiver Shield
-========================================
+Practical Arduino Virtual USB Device Shield
+===========================================
 Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
-Copyright 2009 Marc Alexander <marc.alexander@gmail.com>
+
+FIXME: below is copied straight from RX shield
 
 A general-purpose 433MHz receiver shield for the Arduino Duemilanove
 microcontroller and other boards based on the same header format, such
