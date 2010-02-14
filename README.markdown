@@ -1,17 +1,17 @@
 Practical Arduino Virtual USB Device Shield
 ===========================================
 Copyright 2010 Jonathan Oxer <jon@oxer.com.au>  
+Practical Arduino: <www.practicalarduino.com>
 
-FIXME: below is copied straight from RX shield
-
-A general-purpose 433MHz receiver shield for the Arduino Duemilanove
-microcontroller and other boards based on the same header format, such
-as the Seeeduino and the Arduino Pro.
+Arduino shield that allows software emulation of a USB peripheral
+(client) device using Philip Lindsay's "UsbKeyboard" library.
 
 Includes significant prototyping area using the spare shield area.
 
 Features:
 
+ * USB "mini-B" socket to allow connection to a host as if it were a
+   keyboard, mouse, joystick, or other USB peripheral.
  * Reset button wired through to Arduino reset pin.
  * Two general-purpose SMT LEDs wired to VCC (drive low to illuminate).
  * Pads for 2 surface-mount 100nF smoothing capacitors.
