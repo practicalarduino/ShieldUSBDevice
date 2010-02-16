@@ -28,44 +28,9 @@ into the "eagle" directory on your computer. Then open EAGLE and
 navigate to Projects -> eagle -> ProtoShield.
 
 
-DISTRIBUTION
-------------
-The specific terms of distribution of this project are governed by the
-license referenced below. Our intention is that anyone should be free
-to use or modify this project for non-commercial use; to distribute the
-project under the same terms; and that changes that are made to the
-project should also be available under these same terms. However, it may
-not be used for commercial purposes without entering into a commercial
-license agreement.
-
-What this means in practise is that if you want to make a bunch of PCBs
-either personally or by a professional PCB fabrication company for your
-own use, go for it. If you want to fab them and give them away, that's
-fine too. Or if a group of people (such as members of a hackerspace or
-other community group) want to split the costs and have a batch fabbed
-to divide between them, that's fine. But if you want to fab boards and
-sell them, then you have to obtain a commercial license which will most
-likely incur a fee of AU$1 (+GST if applicable) per board fabbed.
-
-In summary: do what you like with it for non-profit use. But if you want
-to make money from it, we get a cut too.
-
-
 LICENSE
 -------
-This work is licensed under the Creative Commons Attribution-
-Noncommercial-Share Alike 2.5 Australia License. To view a copy of this
-license, visit
-
-  http://creativecommons.org/licenses/by-nc-sa/2.5/au/
-
-or send a letter to
-
-  Creative Commons  
-  171 Second Street, Suite 300  
-  San Francisco  
-  California, 94105  
-  USA
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 
 
 FABRICATION OPTIONS
@@ -95,7 +60,7 @@ text, and with all exposed surfaces gold-plated for maximum durability.
  * Min. Tracing/Spacing:     0.20mm    (8 thou)
  * Min. Annular Ring:        0.30mm    (12 thou)
  * Smallest Holes:           0.40mm
- * Holes Numbers:            300-600
+ * Holes Numbers:            <300
  * Surface Mount:            1 side
  * Soldermask:               Both sides
  * Peelable Soldermask:      None
